@@ -1,0 +1,7 @@
+streamlit
+docling
+pydantic
+pandas
+openpyxl
+sentence-transformers
+google-generativeai 
